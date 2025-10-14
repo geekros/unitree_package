@@ -1,6 +1,6 @@
-# GEEKROS UBUNTU CLIENT
+# GEEKROS UNITREE PACKAGE
 
-⚡ Ubuntu Client For Real-Time Robot-Human Interaction Applications ⚡
+⚡ Unitree Package For Real-Time Robot-Human Interaction Applications ⚡
 
 ## License
 
