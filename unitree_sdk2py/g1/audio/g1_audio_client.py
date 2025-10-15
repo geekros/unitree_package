@@ -2,6 +2,8 @@ import json
 
 from ...rpc.client import Client
 from .g1_audio_api import *
+from ...core.channel import ChannelSubscriber
+from ...idl.std_msgs.msg.dds_ import String_  # DDS String message for ASR results
 
 """
 " class SportClient
