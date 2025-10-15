@@ -1,4 +1,8 @@
 import json
+import socket
+import struct
+import threading
+from typing import List, Callable, Optional
 
 from ...rpc.client import Client
 from .g1_audio_api import *
