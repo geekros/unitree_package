@@ -22,3 +22,14 @@ ROBOT_API_ID_AUDIO_SET_RGB_LED = 1010
 """
 " error code
 """
+
+"""
+" topic name for ASR results
+"""
+AUDIO_ASR_TOPIC_NAME = "rt/audio_msg"
+
+"""
+" UDP multicast configuration for raw microphone stream
+"""
+AUDIO_MIC_GROUP_IP = "239.168.123.161"
+AUDIO_MIC_PORT = 5555

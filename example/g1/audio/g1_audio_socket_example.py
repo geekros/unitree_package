@@ -11,7 +11,6 @@ from unitree_sdk2py.core.channel import ChannelFactoryInitialize
 from unitree_sdk2py.g1.audio.g1_audio_client import AudioClient
 from wav import play_stream_open, play_stream_write, play_stream_close
 
-# ===== 可选：提高设备播放音量（0~100）=====
 DEVICE_VOLUME_BOOT = 90
 
 try:
